@@ -4,4 +4,4 @@ Result of a group project with two fellow students at FSU:
 
 Sydney McGinnis:
 
-Sophie Pavia: 
+Sophie Pavia: https://github.com/sophiepavia
