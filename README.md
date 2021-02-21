@@ -2,6 +2,6 @@
 An implementation of a very simple bash-like shell
 Result of a group project with two fellow students at FSU:
 
-Sydney McGinnis:
+Sydney McGinnis:https://github.com/pepperdog80
 
 Sophie Pavia: https://github.com/sophiepavia
